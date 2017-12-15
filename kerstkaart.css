@@ -1,0 +1,45 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: rgba(75, 75, 76, 1);
+    font-size: 85%;
+}
+
+section {
+    background: url(https://wallpaperstudio10.com/static/wpdb/wallpapers/1920x1080/176456.jpg);
+    width: 1900px;
+    height: 900px;
+    color: white;
+    position: relative;
+    margin: auto;
+}
+
+
+
+h3 {
+    font-family: "Dancing Script OT";
+    font-size: 5em;
+
+
+}
+
+section h1 {
+    text-align: center;
+}
+p {
+    font-size: 48px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 10%;
+    margin-bottom: 80%;
+    font-family: "vshandprinted";
+}
+
+span {
+    font-family: "Dancing Script OT";
+    font-weight: bold;
+    font-size: 80px;
+}
